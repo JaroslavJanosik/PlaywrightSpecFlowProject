@@ -1,0 +1,9 @@
+{
+  "BaseUrl": "https://email.seznam.cz/",
+  "Username": "safetica.test",
+  "Password": "MaZdOR5IiW5OV7ZPykLV",
+  "UserEmail": "safetica.test@seznam.cz",
+  "RecipientEmail": "safeticatest0@gmail.com",
+  "RecipientClientId": "482709609291-r29du71eh6krmpgjhuq9l8u8fvk6v151.apps.googleusercontent.com",
+  "RecipientClientSecret": "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"
+}
